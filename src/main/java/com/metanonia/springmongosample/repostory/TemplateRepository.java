@@ -1,7 +1,6 @@
 package com.metanonia.springmongosample.repostory;
 
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.data.mongodb.core.ExecutableInsertOperation;
 import org.springframework.data.mongodb.core.MongoTemplate;
 import org.springframework.stereotype.Repository;
 
